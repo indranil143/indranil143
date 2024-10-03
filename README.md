@@ -3,8 +3,11 @@
 ![Hi, I'm Indranil!](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)  
 I'm a passionate Data Science Analyst specializing in **NLP**, **Machine Learning**, and **Deep Learning**.
 
+## 🎵 Music Vibes
+![Linkin Park GIF](https://media.giphy.com/media/8c5Vs7QFv72SM/giphy.gif)
+
 ## 🛠️ My Skills
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&lines=Data+Science+Analyst;NLP+%7C+Machine+Learning+%7C+Deep+Learning;15%2B+Projects+Completed;100%2B+Datasets+Analyzed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&lines=Data+Science+Analyst;NLP+%7C+Machine+Learning+%7C+Deep+Learning)](https://git.io/typing-svg)
 
 ## 📊 GitHub Stats
 ![Indranil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=indranil-bandyopadhyay&show_icons=true&theme=radical)
