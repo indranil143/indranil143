@@ -1,52 +1,45 @@
-# 👋 Hi there! I'm Indranil Bandyopadhyay
+# 👩‍💻 Data Science Code Example
 
-![Hi, I'm Indranil!](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)  
-I'm a passionate Data Science Analyst specializing in **NLP**, **Machine Learning**, and **Deep Learning**.
+## 🚀 Minimum Subarray Length to Remove
 
-## 🎵 Music Vibes
-![Linkin Park GIF](https://media.giphy.com/media/8c5Vs7QFv72SM/giphy.gif)
+Here’s an implementation of a function to find the minimum length of a subarray that needs to be removed to make the sum of the remaining elements divisible by a given number.
 
-## 🛠️ My Skills
-- **Programming Languages**: Python, JavaScript, C, C++
-- **Frameworks & Tools**: TensorFlow, Pandas, Power BI, MongoDB
-- **Web Development**: React, Node.js, HTML, CSS, Next.js, MySQL
-- **Data Science**: Machine Learning, Deep Learning, Data Analysis, NLP
+### 📜 Code
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&lines=Data+Science+Analyst;NLP+%7C+Machine+Learning+%7C+Deep+Learning)](https://git.io/typing-svg)
+```cpp
+#include <vector>
+#include <unordered_map>
+using namespace std;
 
-## 📊 GitHub Stats
-![Indranil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=indranil-bandyopadhyay&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indranil-bandyopadhyay&layout=compact&theme=radical)
+class Solution {
+public:
+    int minSubarray(vector<int>& nums, int p) {
+        long totalSum = 0;
+        for (int num : nums) {
+            totalSum += num;
+        }
 
-## 🎮 Fun Projects
-Check out some of my cool projects:
-- [Snake Game](https://indranil-bandyopadhyay.github.io/snake-game)
-- [Tic-Tac-Toe](https://indranil-bandyopadhyay.github.io/tic-tac-toe)
+        // Find the remainder when total sum is divided by p
+        int rem = totalSum % p;
+        if (rem == 0) return 0; // If the remainder is 0, no subarray needs to be removed
 
-## 🎉 Contributions
-![GitHub Snake Light](https://github.com/indranil-bandyopadhyay/indranil-bandyopadhyay/blob/output/github-contribution-grid-snake.svg)
+        unordered_map<int, int> prefixMod;
+        prefixMod[0] = -1;  // Initialize for handling full prefix
+        long prefixSum = 0;
+        int minLength = nums.size();
 
-## 🎉 Cool Coding GIFs
-![Coding GIF](https://media.giphy.com/media/1AgViV35ILOCv9KQBQ/giphy.gif)  
+        for (int i = 0; i < nums.size(); ++i) {
+            prefixSum += nums[i];
+            int currentMod = prefixSum % p;
+            int targetMod = (currentMod - rem + p) % p;
 
-## 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-@indranil-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/indranil)
+            if (prefixMod.find(targetMod) != prefixMod.end()) {
+                minLength = min(minLength, i - prefixMod[targetMod]);
+            }
 
-Feel free to explore my repositories and reach out to me for collaboration or just to say hi!
+            prefixMod[currentMod] = i;
+        }
 
----
-## 🧑‍🎓 Education
-- **Master's in Computer Science** (M.Sc.) from the University of Burdwan
-- **B.Sc. in Computer Science** from Vivekananda Mahavidyalaya
-- **Higher Secondary in Pure Science** (80% Marks)
-
-## 💼 Experience
-- **Data Science Intern** at Prodigy Infotech (Aug 2024 - Sep 2024)
-- **Robotics Intern** and **AI & Machine Learning Intern** at Kodacy (Sep 2024)
-
-## 🎯 Key Performance Indicators
-- **2+ Years of Experience**
-- **100+ Datasets Analyzed**
-- **15+ Projects Completed**
-- **15,000+ LinkedIn Impressions**
+        return minLength == nums.size() ? -1 : minLength;
+    }
+};
