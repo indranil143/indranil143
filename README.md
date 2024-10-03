@@ -30,17 +30,14 @@
   <a href="https://indranil143.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your_twitter_handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 </div>
 
 <hr/>
 
-<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,tensorflow,pandas,powerbi,mongodb,c,react,html,css,vscode,github,git,r,excel,nextjs,mysql,nodejs,java,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,tensorflow,pandas,powerbi,mongodb,c,react,html,css,vscode,github,git,r,excel,nextjs,mysql,nodejs" /><br>
 </div>
 
 <br/>
@@ -63,13 +60,6 @@
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=indranil143&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=indranil143&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/>
-
-<h2 align="center">🎨 Fun Animations 🎨</h2>
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD8zSbHswJm6ZZK/giphy.gif" width="400" alt="cool animation" />
 </div>
 
 <br/><br/>
