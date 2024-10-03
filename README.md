@@ -35,10 +35,14 @@
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,tensorflow,pandas,powerbi,mongodb,c,react,html,css,vscode,github,git,r,excel,nextjs,mysql,nodejs,scikit-learn,keras,nltk,spacy,pytorch,xgboost,matplotlib,seaborn" /><br>
+    <img src="https://skillicons.dev/icons?i=scikit-learn,keras,nltk,spacy,pytorch,xgboost,matplotlib,seaborn" style="display: block; margin: 0 auto;" /><br>
 </div>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,javascript,tensorflow,pandas,powerbi,mongodb,c,react,html,css,vscode,github,git,r,excel,nextjs,mysql,nodejs" style="display: block; margin: 0 auto;" /><br>
+</div>
+
 
 
 </div>
