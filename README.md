@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Indranil+Bandyopadhyay!;" />
 </h1>
 
-<h3 align="center">Data Engineer / Analyst | Enthusiast in NLP, ML, and DL</h3>
+<h3 align="center">Data Science Analyst | Enthusiast in NLP, ML, and DL</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working as a **Data Science Intern**, focusing on analyzing and extracting insights from diverse datasets.
+ 🔭 I’m currently working as **a Data Science Intern**, focusing on analyzing and extracting insights from diverse datasets.
  
  🌱 I’m currently deepening my knowledge in **NLP, Large Language Models (LLM), and Advanced SQL**.
  
@@ -35,16 +35,9 @@
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=scikit-learn,keras,nltk,spacy,pytorch,xgboost,matplotlib,seaborn" style="display: block; margin: 0 auto;" /><br>
-</div>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pandas,powerbi,mongodb,c,react,html,css,javascript,vscode,git,github,excel,nextjs,mysql,nodejs" style="display: block; margin: 0 auto;" /><br>
-</div>
-
-
-
+    <img src="https://skillicons.dev/icons?i=python,javascript,tensorflow,pandas,powerbi,mongodb,c,react,html,css,vscode,github,git,r,excel,nextjs,mysql,nodejs" /><br>
 </div>
 
 <br/>
