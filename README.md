@@ -1,28 +1,32 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=indranil143.indranil143" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=indranil143.indranil143" alt="profile views" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Indranil+Bandyopadhyay!;" />
 </h1>
 
-<h3 align="center">Data Analyst | Enthusiast in NLP, ML, and DL</h3>
+<h3 align="center">Master of Data Spells | Enchanting Insights with NLP, ML, and DL 🧙‍♂️</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working as **a Data Science Intern**, focusing on analyzing and extracting insights from diverse datasets.
+ 🔭 I’m currently casting spells as **a Data Science Intern**, working on extracting magical insights from diverse datasets.
  
- 🌱 I’m currently deepening my knowledge in **NLP, Large Language Models (LLM), and Advanced SQL**.
+ 🌱 I’m on a quest to master **NLP, Large Language Models (LLM), and Advanced SQL**.
  
- 💬 Feel free to ask me about **Python, Machine Learning, NLP, React, or any data-driven problem!**
+ 💬 Summon me to talk about **Python, Machine Learning, NLP, React, or any data-driven mystery!**
  
- ⚡ Fun fact: **Game of Thrones Night's Watch cloaks were made from Ikea rugs!**
+ ⚡ Fun fact: **The cloaks of the Night's Watch in Game of Thrones? Yep, they’re Ikea rugs!**
 
 </div>
 
 <div align="center"> 
-  <a href="mailto:banerjeeindranil143@gmail.com">Gmail</a> |
-  <a href="https://linkedin.com/in/ibandyopadhyay" target="_blank">LinkedIn</a>
+  <a href="mailto:banerjeeindranil143@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/ibandyopadhyay" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
 
 <hr/>
