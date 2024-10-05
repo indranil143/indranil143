@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Indranil+Bandyopadhyay!;" />
 </h1>
 
-<h3 align="center">Data Science Analyst | Enthusiast in NLP, ML, and DL</h3>
+<h3 align="center">Data Analyst | Enthusiast in NLP, ML, and DL</h3>
 
 <br/>
 
@@ -21,15 +21,8 @@
 </div>
 
 <div align="center"> 
-  <a href="mailto:banerjeeindranil143@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/ibandyopadhyay" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://indranil143.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
+  <a href="mailto:banerjeeindranil143@gmail.com">Gmail</a> |
+  <a href="https://linkedin.com/in/ibandyopadhyay" target="_blank">LinkedIn</a>
 </div>
 
 <hr/>
