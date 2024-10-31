@@ -3,10 +3,9 @@
 </h1>
 
 <h3 align="center">
-    Master of Data Spells | Enchanting Insights with NLP, ML, and DL 🧙‍♂️
+    Data Wizard | Crafting Insights with NLP, ML, and DL 🧙‍♂️
 </h3>
 
-<img align="left" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
 <p align="center">
@@ -14,10 +13,10 @@
 </p>
 
 <div align="center">
-    🔭 Currently casting spells as **a Data Science Intern**, working on extracting magical insights from diverse datasets.<br>
-    🌱 On a quest to master **NLP, Large Language Models (LLM), and Advanced SQL**.<br>
-    💬 Summon me to talk about **Python, Machine Learning, NLP, React, or any data-driven mystery!**<br>
-    ⚡ Fun fact: **The cloaks of the Night's Watch in Game of Thrones? Yep, they’re Ikea rugs!**
+    🔭 Currently a **Data Science Intern**, uncovering insights from data.<br>
+    🌱 Learning **NLP, LLMs, and Advanced SQL**.<br>
+    💬 Let’s chat: **Python, ML, NLP, React, or any data mystery!**<br>
+    ⚡ Fun fact: **The Night's Watch cloaks in Game of Thrones? Ikea rugs!**
 </div>
 
 <br/>
