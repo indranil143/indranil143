@@ -1,7 +1,7 @@
 <img src="https://github.com/Suman-Adhikary/test/blob/main/Data%20science.png" width="2000" height="300" />
 
-<h1 align="center">Hi 👋, I'm Indranil Bandyopadhyay</h1>
-<h3 align="center">Passionate about NLP, Machine Learning, and Data Science.</h3>
+<h1 align="center">Hey👋, I'm Indranil Bandyopadhyay</h1>
+<h3 align="center">Passionate about Data Science, NLP and Machine Learning.</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=indranil143&label=Profile%20views&color=0e75b6&style=flat" alt="indranil143" />
@@ -13,9 +13,9 @@
     </a>
 </p>
 
-- 🔭 I’m currently working on a project for **Fake News Detection Using Machine Learning and NLP**
+- 🔭 I’m currently working on a project for **🤫**
 
-- 🌱 I’m expanding my knowledge in **Web Scraping, LLMs, and Advanced SQL**
+- 🌱 I’m expanding my knowledge in **LLMs, and Advanced SQL**
 
 - 📫 Reach me at **banerjeeindranil143@gmail.com**
 
