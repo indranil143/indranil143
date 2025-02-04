@@ -9,7 +9,7 @@
 
 <h3 align="left"> Achievements🏆</h3>
 <p align="left">
-    <img src="[https://your-image-link.com/fake-trophy1.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy&psig=AOvVaw3LhppHOhfhiNswVTX5TgoH&ust=1738750464125000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiB3LPkqYsDFQAAAAAdAAAAABAE)" alt="Legendary Coder" width="100"/>
+    <img src="[link](https://user-images.githubusercontent.com/6661165/104810094-edbc8c80-5835-11eb-8c20-a76192a00728.png)" alt="Legendary Coder" width="100"/>
     <img src="https://your-image-link.com/fake-trophy2.png" alt="Master of Data Science" width="100"/>
     <img src="https://your-image-link.com/fake-trophy3.png" alt="GitHub King" width="100"/>
     <img src="https://your-image-link.com/fake-trophy4.png" alt="AI Innovator" width="100"/>
