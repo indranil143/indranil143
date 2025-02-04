@@ -7,9 +7,9 @@
     <img src="https://komarev.com/ghpvc/?username=indranil143&label=Profile%20views&color=0e75b6&style=flat" alt="indranil143" />
 </p>
 
-<h3 align="left">🏆 Custom Achievements 🏆</h3>
+<h3 align="left"> Achievements🏆</h3>
 <p align="left">
-    <img src="https://your-image-link.com/fake-trophy1.png" alt="Legendary Coder" width="100"/>
+    <img src="[https://your-image-link.com/fake-trophy1.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy&psig=AOvVaw3LhppHOhfhiNswVTX5TgoH&ust=1738750464125000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiB3LPkqYsDFQAAAAAdAAAAABAE)" alt="Legendary Coder" width="100"/>
     <img src="https://your-image-link.com/fake-trophy2.png" alt="Master of Data Science" width="100"/>
     <img src="https://your-image-link.com/fake-trophy3.png" alt="GitHub King" width="100"/>
     <img src="https://your-image-link.com/fake-trophy4.png" alt="AI Innovator" width="100"/>
