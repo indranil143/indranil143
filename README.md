@@ -9,15 +9,8 @@
 
 <h3 align="left"> Achievements🏆</h3>
 <p align="left">
-    <img src="[[link](https://user-images.githubusercontent.com/6661165/104810094-edbc8c80-5835-11eb-8c20-a76192a00728.png)](https://github.com/indranil143/Indranil/blob/main/93668661-e0ca9f00-fac8-11ea-9bec-325454f49fb4.png?raw=true)" alt="Legendary Coder" width="100"/>
-    <img src="https://github.com/indranil143/Indranil/blob/main/93668661-e0ca9f00-fac8-11ea-9bec-325454f49fb4.png" alt="Master of Data Science" width="100"/>
-    <img src="https://your-image-link.com/fake-trophy3.png" alt="GitHub King" width="100"/>
-    <img src="https://your-image-link.com/fake-trophy4.png" alt="AI Innovator" width="100"/>
-    <img src="https://your-image-link.com/fake-trophy5.png" alt="Top Contributor" width="100"/>
+    <img src="https://github.com/indranil143/Indranil/blob/main/93668661-e0ca9f00-fac8-11ea-9bec-325454f49fb4.png" alt="Master of Data Science" width="1000"/>
 </p>
-
-
-
 
 - 🔭 I’m currently working on a project for **🤫**
 
