@@ -7,11 +7,15 @@
     <img src="https://komarev.com/ghpvc/?username=indranil143&label=Profile%20views&color=0e75b6&style=flat" alt="indranil143" />
 </p>
 
+<h3 align="left">🏆 Custom Achievements 🏆</h3>
 <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=indranil143&theme=onestar&column=7&no-bg=true&no-frame=true&rank=SSS,SS,AAA,AA,A" alt="indranil143" />
-    </a>
+    <img src="https://your-image-link.com/fake-trophy1.png" alt="Legendary Coder" width="100"/>
+    <img src="https://your-image-link.com/fake-trophy2.png" alt="Master of Data Science" width="100"/>
+    <img src="https://your-image-link.com/fake-trophy3.png" alt="GitHub King" width="100"/>
+    <img src="https://your-image-link.com/fake-trophy4.png" alt="AI Innovator" width="100"/>
+    <img src="https://your-image-link.com/fake-trophy5.png" alt="Top Contributor" width="100"/>
 </p>
+
 
 
 
