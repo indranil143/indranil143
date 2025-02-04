@@ -25,6 +25,11 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
 </p>
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=indranil143&rank=SSS,SS,AAA,AA,A" alt="indranil143" />
+    </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
