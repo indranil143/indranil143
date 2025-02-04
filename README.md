@@ -9,9 +9,10 @@
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=indranil143&rank=SSS,SS,AAA,AA,A" alt="indranil143" />
+        <img src="https://github-profile-trophy.vercel.app/?username=indranil143&rank=SSS,SS,AAA,AA,A,B" alt="indranil143" />
     </a>
 </p>
+
 
 - 🔭 I’m currently working on a project for **🤫**
 
