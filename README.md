@@ -10,7 +10,7 @@
 
 <h3 align="left"> Achievements🏆</h3>
 <p align="left">
-    <img src="https://github.com/indranil143/Indranil/blob/main/93668661-e0ca9f00-fac8-11ea-9bec-325454f49fb4.png" alt="Master of Data Science" width="1000"/>
+    <img src="https://github.com/indranil143/test/blob/main/trophies_i_found_in_the_github_trash%23fakeItTillYouMakeIt.png" alt="Master of Data Science" width="1000"/>
 </p>
 
 - 🔭 I’m currently working on a project for **🤫**
