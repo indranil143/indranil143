@@ -1,4 +1,4 @@
-<img src="https://github.com/Suman-Adhikary/test/blob/main/Data%20science.png" width="2000" height="300" />
+<img src="https://github.com/Suman-Adhikary/test/blob/main/Data%20science.png" width="2000" height="200" />
 
 <h1 align="center">Hey👋, I'm Indranil Bandyopadhyay</h1>
 <h3 align="center">Passionate about Data Science, NLP and Machine Learning.</h3>
