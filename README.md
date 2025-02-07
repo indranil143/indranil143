@@ -1,4 +1,4 @@
-<img src="Data Science.png" width="2000" height="300" />
+<img src="[Data Science.png](https://github.com/indranil143/test/blob/main/Data%20Science.png)" width="2000" height="300" />
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Indranil Bandyopadhyay </h1>
 
