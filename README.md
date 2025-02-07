@@ -1,6 +1,18 @@
-<img src="https://github.com/Suman-Adhikary/test/blob/main/Data%20science.png" width="2000" height="200" />
+<img src="https://github.com/Suman-Adhikary/test/blob/main/Data%20science.png" width="2000" height="300" />
 
-<h1 align="center">Hey👋, I'm Indranil Bandyopadhyay</h1>
+<h1 align="center">Hey👋, I'm Indranil Bandyopadhyay </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"
+                                                                 
+  
+  &nbsp;
+  <p align="center"> 
+  <img src="https://profile-counter.glitch.me/indranil143/count.svg" />
+</p>
+  </h1>
+<!--  -->
+
+<picture> <img align="right" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=ecf05e47eeieayf6mr6jr84oxpcok3cnwqpjx3f5wmlycfx9&ep=v1_gifs_search&rid=giphy.gif&ct=g.webp" width = 250px></picture>
+
+<br> 
 <h3 align="center">Passionate about Data Science, NLP and Machine Learning.</h3>
 
 <p align="left">
