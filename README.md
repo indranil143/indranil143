@@ -8,9 +8,6 @@
   <img src="https://profile-counter.glitch.me/indranil143/count.svg" />
 </p>
   </h1>
-<!--  -->
-
-<picture> <img align="right" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=ecf05e47eeieayf6mr6jr84oxpcok3cnwqpjx3f5wmlycfx9&ep=v1_gifs_search&rid=giphy.gif&ct=g.webp" width = 250px></picture>
 
 <br> 
 <h3 align="center">Passionate about Data Science, NLP and Machine Learning.</h3>
