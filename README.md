@@ -1,4 +1,4 @@
-<img src="https://github.com/indranil143/Image-Denoising-Using-CNN-Based-Autoencoders/blob/main/Logo.jpg-01.jpeg" width="1000" height="150" />
+<img src="https://camo.githubusercontent.com/29b3437959782f8dd2b67ade19a2c1283b8941b5bc16a5e2bab89cda69f28b7b/68747470733a2f2f7777772e69697365726b6f6c2e61632e696e2f7e6364732f6173736574732f696d6167652f696e74726f5f746f5f636f6d705f70726f6772616d6d696e672e6a7067" width="1000" height="150" />
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Indranil Bandyopadhyay </h1>
 
