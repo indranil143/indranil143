@@ -1,17 +1,16 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/29b3437959782f8dd2b67ade19a2c1283b8941b5bc16a5e2bab89cda69f28b7b/68747470733a2f2f7777772e69697365726b6f6c2e61632e696e2f7e6364732f6173736574732f696d6167652f696e74726f5f746f5f636f6d705f70726f6772616d6d696e672e6a7067" width="700" height="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700" height="400" />
 </p>
 
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Indranil Bandyopadhyay </h1>
+<h1 align="center">Hey <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="35"/> I'm Indranil Bandyopadhyay </h1>
 <h3 align="center">Aspiring AI Engineer from India, passionate about Data Science, Machine Learning, and NLP.🚀</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=indranil143&label=Profile%20views&color=0e75b6&style=flat" alt="indranil143" />
 </p>
 
-<h3 align="left"> Achievements🏆</h3>
-<p align="left">
-    <img src="https://github.com/indranil143/test/blob/main/fake_it_till_u_make_it_trophies_from_github_trash_XD.png" alt="Master of Data Science" width="1000"/>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="1000"/>
 </p>
 
 - 🔭 Pursuing a career in AI, focused on mastering machine learning algorithms, frameworks, and real-world problem-solving.  
