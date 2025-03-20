@@ -24,21 +24,22 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/ibandyopadhyay" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" />
     </a>
     <a href="https://www.hackerrank.com/profile/banerjeeindranil" target="_blank">
-        <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111638.png" width="40" height="40" alt="HackerRank" />
     </a>
     <a href="https://www.credly.com/users/indranil-bandyopadhyay" target="_blank">
-        <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=verizon&logoColor=white" alt="Credly" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Credly_Logo.png" width="40" height="40" alt="Credly" />
     </a>
     <a href="https://github.com/ibandyopadhyay" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40" alt="GitHub" />
     </a>
     <a href="mailto:banerjeeindranil143@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email" />
     </a>
 </p>
+
 
 
 
