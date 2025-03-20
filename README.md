@@ -27,10 +27,10 @@
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" />
     </a>
     <a href="https://www.hackerrank.com/profile/banerjeeindranil" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111638.png" width="40" height="40" alt="HackerRank" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" height="40" alt="HackerRank" />
     </a>
     <a href="https://www.credly.com/users/indranil-bandyopadhyay" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Credly_Logo.png" width="40" height="40" alt="Credly" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Credly_logo_badge.png/512px-Credly_logo_badge.png" width="40" height="40" alt="Credly" />
     </a>
     <a href="https://github.com/ibandyopadhyay" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40" alt="GitHub" />
@@ -39,6 +39,7 @@
         <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email" />
     </a>
 </p>
+
 
 
 
