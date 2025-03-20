@@ -24,15 +24,22 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/ibandyopadhyay" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://www.hackerrank.com/profile/banerjeeindranil" target="_blank">
-        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+        <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
     </a>
     <a href="https://www.credly.com/users/indranil-bandyopadhyay" target="_blank">
-        <img src="https://img.shields.io/badge/Credly-F7A41D?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+        <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=verizon&logoColor=white" alt="Credly" />
+    </a>
+    <a href="https://github.com/ibandyopadhyay" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:banerjeeindranil143@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
