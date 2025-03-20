@@ -1,6 +1,6 @@
 <img src="https://github.com/indranil143/Image-Denoising-Using-CNN-Based-Autoencoders/blob/main/Data%20Science.png" width="2000" height="300" />
 
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif]" width="35"/> I'm Indranil Bandyopadhyay </h1>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Indranil Bandyopadhyay </h1>
 
 <h3 align="center">Passionate about Data Science, NLP and Machine Learning.</h3>
 
