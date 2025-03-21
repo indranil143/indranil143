@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Indranil Bandyopadhyay </h1>
-<h3 align="center">Aspiring AI Engineer from India, passionate about Data Science, Machine Learning, and NLP.🚀</h3>
+<h3 align="center">Aspiring AI Engineer from India 🇮🇳, passionate about Data Science, Machine Learning, and NLP.🚀</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=indranil143&label=Profile%20views&color=0e75b6&style=flat" alt="indranil143" />
