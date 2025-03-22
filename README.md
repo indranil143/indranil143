@@ -109,8 +109,14 @@
     <a href="https://spacy.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg" alt="spaCy" width="50" height="50"/>
     </a>
-    <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.nltk.org/images/NLTK.jpg" alt="NLTK" width="50" height="50"/>
+    <a href="https://stanfordnlp.github.io/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Stanford_University_seal_2003.svg" alt="Stanford NLP" width="50" height="50"/>
+    </a>
+    <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/RaRe-Technologies/gensim/develop/docs/_static/logo.png" alt="Gensim" width="50" height="50"/>
+    </a>
+    <a href="https://fasttext.cc/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/FastText_logo.png" alt="FastText" width="50" height="50"/>
     </a>
 </p>
 
