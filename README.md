@@ -110,7 +110,7 @@
         <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg" alt="spaCy" width="50" height="50"/>
     </a>
     <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="100" height="50"/>
+        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="35"/>
     </a>
 </p>
 
