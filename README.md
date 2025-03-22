@@ -110,7 +110,7 @@
         <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg" alt="spaCy" width="50" height="50"/>
     </a>
     <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-        <img src="assets/nltk_logo.png" alt="NLTK" width="50" height="50"/>
+        <img src="https://www.nltk.org/images/NLTK.jpg" alt="NLTK" width="50" height="50"/>
     </a>
 </p>
 
