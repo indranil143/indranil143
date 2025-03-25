@@ -120,14 +120,15 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=indranil143&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=indranil143&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=indranil143&theme=dark&hide_border=false"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=indranil143&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
+
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
