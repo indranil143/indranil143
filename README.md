@@ -123,7 +123,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=indranil143&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=indranil143&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=indranil143&theme=dark&hide_border=false"/>
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
