@@ -1,0 +1,25 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 20 * * *" # Runs every day at 8 PM UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: YOUR_GITHUB_USERNAME
+          outputs: dist/snake.svg
+
+      - name: Commit and push snake animation
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
