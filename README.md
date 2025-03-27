@@ -142,15 +142,13 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indranil143/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indranil143/output/github-snake.svg" />
-  <img 
-    alt="A mesmerizing GitHub Snake animation that slithers through your contributions!" 
-    src="https://raw.githubusercontent.com/indranil143/output/github-snake.svg" 
-    style="max-width: 100%; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);" 
-  />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/indranil143/output/github-snake.svg" />
 </picture>
+
 
 
 ---
