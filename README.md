@@ -136,12 +136,17 @@
 </p>
 
 
-<h2 align="center">✍️ Random Quote</h2>
+<h2 align="center">✍️ Random Dev Quote</h2>
 
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/indranil143/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/indranil143/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/indranil143/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ibandyopadhyay&icon=0&color=0)](https://visitcount.itsvg.in)
