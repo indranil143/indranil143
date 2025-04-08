@@ -31,6 +31,9 @@
     <a href="https://www.credly.com/users/indranil-bandyopadhyay" target="_blank">
         <img src="https://images.credly.com/images/c4689f29-3940-42ca-823e-340ea05dd936/blob" width="40" height="40" alt="Credly" style="margin-left: 10px;" />
     </a>
+    <a href="https://in.pinterest.com/indranil_143/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" width="40" height="40" alt="Pinterest" style="margin-left: 10px;" />
+    </a>
 </p>
 
 
