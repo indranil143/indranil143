@@ -26,10 +26,10 @@
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" />
     </a>
     <a href="https://www.hackerrank.com/profile/banerjeeindranil" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" height="40" alt="HackerRank" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="40" height="40" alt="HackerRank" style="margin-left: 10px;" />
     </a>
     <a href="https://www.credly.com/users/indranil-bandyopadhyay" target="_blank">
-        <img src="https://images.credly.com/images/open-graph/credly-og-image.png" width="40" height="40" alt="Credly" />
+        <img src="https://images.credly.com/images/c4689f29-3940-42ca-823e-340ea05dd936/blob" width="40" height="40" alt="Credly" style="margin-left: 10px;" />
     </a>
 </p>
 
