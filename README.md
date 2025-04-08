@@ -25,10 +25,14 @@
     <a href="https://linkedin.com/in/ibandyopadhyay" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" />
     </a>
+    <a href="https://www.hackerrank.com/profile/banerjeeindranil" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" height="40" alt="HackerRank" />
+    </a>
+    <a href="https://www.credly.com/users/indranil-bandyopadhyay" target="_blank">
+        <img src="https://images.credly.com/images/open-graph/credly-og-image.png" width="40" height="40" alt="Credly" />
+    </a>
 </p>
 
-- **HackerRank**: [banerjeeindranil](https://www.hackerrank.com/profile/banerjeeindranil)  
-- **Credly**: [Indranil Bandyopadhyay](https://www.credly.com/users/indranil-bandyopadhyay)  
 
 
 
