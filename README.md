@@ -25,11 +25,20 @@
     <a href="https://linkedin.com/in/ibandyopadhyay" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" />
     </a>
+      <a href="mailto:banerjeeindranil143@gmail.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="40" height="40" alt="Email" style="margin-left: 10px;" />
+    </a>
     <a href="https://www.hackerrank.com/profile/banerjeeindranil" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="40" height="40" alt="HackerRank" style="margin-left: 10px;" />
     </a>
     <a href="https://www.credly.com/users/indranil-bandyopadhyay" target="_blank">
         <img src="https://images.credly.com/images/c4689f29-3940-42ca-823e-340ea05dd936/blob" width="40" height="40" alt="Credly" style="margin-left: 10px;" />
+    </a>
+      <a href="https://leetcode.com/yourusername" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode" style="margin-left: 10px;" />
+    </a>
+    <a href="https://discord.com/users/indranil_0p" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvQSo64weeAlpUwYBIBKt76KoHjdxDSpEGg&s" width="40" height="40" alt="Discord" style="margin-left: 10px;" />
     </a>
     <a href="https://in.pinterest.com/indranil_143/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" width="40" height="40" alt="Pinterest" style="margin-left: 10px;" />
