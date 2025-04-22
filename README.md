@@ -127,26 +127,19 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
-  <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=indranil143&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  
-  <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">
+    <img src="https://github-readme-stats.vercel.app/api?username=indranil143&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
 </p>
 
 <p align="center">
+    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+    
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=indranil143&theme=dark&hide_border=false"/>
+    
+    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">
 </p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indranil143&bg_color=000000&color=DA80EB&line=EB1484&point=C29AEB&area=true&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indranil143&theme=monokai" />
 </p>
 
 
