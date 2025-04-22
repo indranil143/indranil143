@@ -142,6 +142,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indranil143&bg_color=000000&color=DA80EB&line=EB1484&point=C29AEB&area=true&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indranil143&theme=monokai" />
+</p>
 
 
 <h2 align="center">🏆 GitHub Trophies</h2>
