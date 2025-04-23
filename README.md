@@ -141,7 +141,7 @@
 
 <!-- 🔥 Streak Stats with Wings -->
 <p align="center">
-  <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+  <img height="50" width="50" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=indranil143&theme=dark&hide_border=false"/>
   
