@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" height="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" height="200" />
 </p>
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Indranil Bandyopadhyay </h1>
@@ -10,14 +10,14 @@
 </p>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="1000"/>
+    <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="1000" height="100"/>
 </p>
 
 - 🔭 Pursuing a career in AI, focused on mastering machine learning algorithms, frameworks, and real-world problem-solving.  
 - 😄 Passionate about designing intelligent models, uncovering hidden patterns in data, and optimizing decision-making.  
 - 🌱 Exploring the fusion of AI and data engineering, working with scalable systems to process real-time and batch data.  
 - ⚡ Developing expertise in deep learning, advanced analytics, and cutting-edge tools like TensorFlow and Apache Spark.
-- 📫 Reach me @ **banerjeeindranil143@gmail.com**
+- 📫 Reach me at **banerjeeindranil143@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -44,8 +44,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" width="40" height="40" alt="Pinterest" style="margin-left: 10px;" />
     </a>
 </p>
-
-
 
 
 <h2 align="center">🚀 Languages & Tools:</h2>
@@ -131,8 +129,6 @@
 </p>
 
 
-
-
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
@@ -141,7 +137,7 @@
 
 <!-- 🔥 Streak Stats with Wings -->
 <p align="center">
-  <img height="70" width="50" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+  <img height="90" width="70" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=indranil143&theme=dark&hide_border=false"/>
   
