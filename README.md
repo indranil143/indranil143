@@ -38,7 +38,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode" style="margin-left: 10px;" />
     </a>
     <a href="https://www.cloudskillsboost.google/public_profiles/76a74817-c081-4278-8a70-7b2a62090e35" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfsFPdqVvId7Y0VaaTngb3vHup4kL5ZpQmGivYVlHimLPWT0NPZVs_0TRA7c_aRv7ZvKk&usqp=CAU" width="40" height="40" alt="Google Cloud Skills Boost Profile" style="margin-left: 10px;" />
+    <img src="https://i.pinimg.com/736x/82/3b/bd/823bbda0a0841434cc20752804e34127.jpg" width="40" height="40" alt="Google Cloud Skills Boost Profile" style="margin-left: 10px;" />
     </a>
  <!--   <a href="https://discord.com/users/indranil_0p" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvQSo64weeAlpUwYBIBKt76KoHjdxDSpEGg&s" width="40" height="40" alt="Discord" style="margin-left: 10px;" /> -->
