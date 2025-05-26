@@ -39,7 +39,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.cloudskillsboost.google/public_profiles/76a74817-c081-4278-8a70-7b2a62090e35" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH1XB6D7xmdrQlH0XJ-S6p_bdhajYg0usqkg&s" width="40" height="40" alt="Google Cloud Skills Boost Profile" style="margin-left: 10px;" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKqhrpyiPo_hqQ42khSzMSiKfyZiFEtA1UIw&s" width="40" height="40" alt="Google Cloud Skills Boost Profile" style="margin-left: 10px;" />
     </a>
  <!--   <a href="https://discord.com/users/indranil_0p" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvQSo64weeAlpUwYBIBKt76KoHjdxDSpEGg&s" width="40" height="40" alt="Discord" style="margin-left: 10px;" /> -->
