@@ -135,13 +135,13 @@
 
 <h2 align="center" style="color:#ff66cc;">💜 My Neon GitHub Journey 💜</h2>
 
-<hr style="border: 1px solid #ff66cc;">
+---
 
 <p align="center">
   <img src="https://dashing-github.com/api?user=indranil143&theme=tokyo-night&type=stats" alt="GitHub Stats" />
 </p>
 
-<hr style="border: 1px solid #cc00ff;">
+---
 
 <p align="center">
   <img height="200" width="70" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png" alt="Left Wing">
@@ -149,14 +149,14 @@
   <img height="200" width="70" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png" alt="Right Wing">
 </p>
 
-<hr style="border: 1px solid #ff66ff;">
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=indranil143&theme=tokyonight&hide_border=false&layout=compact" alt="WakaTime Stats"/>
+  <img src="https://raw.githubusercontent.com/indranil143/your-repo-name/main/assets/wakatime.svg" alt="WakaTime Stats"/>
 </p>
 
-<hr style="border: 1px solid #ff33cc;">
+---
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=indranil143&theme=tokyonight&margin-w=10&no-frame=true&column=7" alt="Trophies" />
@@ -166,7 +166,7 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=indranil143&bg_color=000000&color=ff66cc&line=ff33cc&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
-<hr style="border: 1px solid #cc00ff;">
+---
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF66CC&center=true&vCenter=true&width=435&lines=Keep+Coding+💻;Love+Art+%26+Tech+🎨🧠;Never+Stop+Exploring+🔭;Follow+Me+on+GitHub+💜" alt="Typing SVG">
@@ -176,6 +176,7 @@
     <strong style="color:#ff66cc;">Visitors:</strong> 
     <img src="https://profile-counter.glitch.me/indranil143/count.svg" alt="Profile Views"/>
 </p>
+
 
 
 
