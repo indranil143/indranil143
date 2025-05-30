@@ -145,7 +145,9 @@
 
 <p align="center">
   <img height="200" width="70" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png" alt="Left Wing">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=indranil143&theme=tokyo-night&hide_border=false&background=00000000&ring=ff66cc&fire=ff33cc&currStreakNum=ff99ff&sideNums=ff66cc" alt="GitHub Streak Stats"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=indranil143&theme=tokyonight&hide_border=false&background=00000000&ring=ff66cc&fire=ff33cc&currStreakNum=ff99ff&sideNums=ff66cc&dates=ff66cc" alt="GitHub Streak Stats"/>
+  
   <img height="200" width="70" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png" alt="Right Wing">
 </p>
 
@@ -153,7 +155,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" alt="Top Languages"/>
-  <img src="https://raw.githubusercontent.com/indranil143/your-repo-name/main/assets/wakatime.svg" alt="WakaTime Stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=indranil143&theme=tokyonight&hide_border=false&hide_title=false&layout=compact" alt="WakaTime Stats"/>
 </p>
 
 ---
@@ -163,18 +166,18 @@
 </p>
 
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=indranil143&bg_color=000000&color=ff66cc&line=ff33cc&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
+  <img src="https://github-contribution-stats.vercel.app/api?username=indranil143&theme=tokyonight&full=true&hide_title=true&hide_border=true&border_radius=10" alt="GitHub Contribution Graph">
 </p>
 
 ---
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF66CC&center=true&vCenter=true&width=435&lines=Keep+Coding+💻;Love+Art+%26+Tech+🎨🧠;Never+Stop+Exploring+🔭;Follow+Me+on+GitHub+💜" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF66CC&center=true&vCenter=true&width=435&lines=Keep+Coding+💻;Love+Art+%26+Tech+🎨🧠;Never+Stop+Exploring+🔭;Follow+Me+on+GitHub+💜" alt="Typing SVG">
 </p>
 
 <p align="center">
-    <strong style="color:#ff66cc;">Visitors:</strong> 
-    <img src="https://profile-counter.glitch.me/indranil143/count.svg" alt="Profile Views"/>
+  <strong style="color:#ff66cc;">Visitors:</strong>
+  <img src="https://profile-counter.glitch.me/indranil143/count.svg" alt="Profile Views"/>
 </p>
 
 
