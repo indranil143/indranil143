@@ -17,7 +17,7 @@
 - 😄 Passionate about designing intelligent models, uncovering hidden patterns in data, and optimizing decision-making.  
 - 🌱 Exploring the fusion of AI and data engineering, working with scalable systems to process real-time and batch data.  
 - ⚡ Developing expertise in deep learning, advanced analytics, and cutting-edge tools like TensorFlow and Apache Spark.
-- 📫 Reach me @ **banerjeeindranil143@gmail.com** 
+- 📫 Reach me at **banerjeeindranil143@gmail.com** )
 
 
 <h3 align="left">Connect with me:</h3>
@@ -132,6 +132,37 @@
     </a>
 </p>
 
+
+<h2 align="center">✨ My GitHub Journey ✨</h2>
+
+---
+
+<p align="center">
+    <img src="https://dashing-github.com/api?user=indranil143&theme=dark-blue&type=stats" alt="GitHub Stats" />
+</p>
+
+---
+
+<p align="center">
+    <img height="200" width="70" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png" alt="Left Wing">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=indranil143&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+    <img height="200" width="70" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png" alt="Right Wing">
+</p>
+
+---
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=indranil143&theme=tokyonight&hide_border=false&hide_title=false&layout=compact" alt="WakaTime Stats"/>
+</p>
+
+---
+
+<p align="center">
+    Visitors: <img src="https://profile-counter.glitch.me/indranil143/count.svg" alt="Profile Views"/>
+</p>
+
+---
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
