@@ -136,10 +136,7 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=indranil143&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indranil143&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=indranil143&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
 </p>
 
 <!-- 🔥 Streak Stats with Wings -->
@@ -152,13 +149,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=tokyonight&hide_border=false&layout=compact&langs_count=8"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=indranil143&theme=tokyonight&hide_border=false&hide_title=false&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
 
