@@ -133,12 +133,14 @@
 </p>
 
 
-<h2 align="center" style="color:#ff66cc;">💜 My Neon GitHub Journey 💜</h2>
+<h2 align="center" style="color: #00ffff; text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff, 0 0 15px #00ffff, 0 0 20px #00ffff, 0 0 30px #00ffff, 0 0 40px #00ffff, 0 0 50px #00ffff, 0 0 60px #00ffff;">
+    ✨ My Neon GitHub Journey ✨
+</h2>
 
 ---
 
 <p align="center">
-  <img src="https://dashing-github.com/api?user=indranil143&theme=tokyo-night&type=stats" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=indranil143&theme=radical&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&title_color=00ffff&text_color=ff00ff&icon_color=00ffff&border_color=00ffff"/>
 </p>
 
 ---
@@ -146,7 +148,7 @@
 <p align="center">
   <img height="200" width="70" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png" alt="Left Wing">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=indranil143&theme=tokyonight&hide_border=false&background=00000000&ring=ff66cc&fire=ff33cc&currStreakNum=ff99ff&sideNums=ff66cc&dates=ff66cc" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indranil143&theme=dark&hide_border=false&background=00000000&ring=ff00ff&fire=00ffff&currStreakNum=ff00ff&sideNums=00ffff&dates=ff00ff"/>
   
   <img height="200" width="70" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png" alt="Right Wing">
 </p>
@@ -154,31 +156,51 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" alt="Top Languages"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=indranil143&theme=tokyonight&hide_border=false&hide_title=false&layout=compact" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=radical&hide_border=false&layout=compact&langs_count=8&title_color=00ffff&text_color=ff00ff&icon_color=00ffff&border_color=00ffff"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=indranil143&theme=tokyonight&margin-w=10&no-frame=true&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=indranil143&theme=synthwave&margin-w=10&no-frame=true&column=7" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api?username=indranil143&theme=tokyonight&full=true&hide_title=true&hide_border=true&border_radius=10" alt="GitHub Contribution Graph">
+  <img src="https://activity-graph.herokuapp.com/graph?username=indranil143&bg_color=000000&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF66CC&center=true&vCenter=true&width=435&lines=Keep+Coding+💻;Love+Art+%26+Tech+🎨🧠;Never+Stop+Exploring+🔭;Follow+Me+on+GitHub+💜" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff00ff&center=true&vCenter=true&width=435&lines=Keep+Coding+💻;Love+Art+%26+Tech+🎨🧠;Never+Stop+Exploring+🔭;Follow+Me+on+GitHub+💜" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <strong style="color:#ff66cc;">Visitors:</strong>
+  <strong style="color:#00ffff;">Visitors:</strong>
   <img src="https://profile-counter.glitch.me/indranil143/count.svg" alt="Profile Views"/>
 </p>
+
+<h2 align="center" style="color:#ff66cc;">📊 GitHub Stats with Neon Glow:</h2>
+
+<!-- 🌌 GitHub Stats Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=indranil143&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+</p>
+
+<!-- 🔥 Streak Stats with Neon Wings -->
+<p align="center">
+  <img height="200" width="70" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indranil143&theme=radical&hide_border=false&fire=ff66cc&currStreakLabel=ff33cc&sideLabels=ff66cc"/>
+  
+  <img height="200" width="70" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">
+</p>
+
+<!-- 🌈 Top Languages with Neon Style -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=tokyonight&hide_border=false&layout=compact&langs_count=8"/>
+</p>
+
 
 
 
