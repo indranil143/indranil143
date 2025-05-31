@@ -149,14 +149,14 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=ocean-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-    <img src="https://github-trophies.vercel.app/?username=indranil143&theme=aurora&no-frame=false&no-bg=false&margin-w=4"/>
+    <img src="https://github-trophies.vercel.app/?username=indranil143&theme=dracula&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
 
 
