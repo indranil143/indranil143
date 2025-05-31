@@ -136,27 +136,27 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=indranil143&theme=tokyonight_dark&hide_border=false&include_all_commits=false&count_private=false"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=indranil143&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
 </p>
 
 <!-- 🔥 Streak Stats with Wings -->
 <p align="center">
   <img height="200" width="70" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png" alt="Left Wing">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indranil143&theme=synthwave&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indranil143&theme=dracula&hide_border=false"/>
   
   <img height="200" width="70" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png" alt="Right Wing">
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=outrun&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-    <img src="https://github-trophies.vercel.app/?username=indranil143&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4"/>
+    <img src="https://github-trophies.vercel.app/?username=indranil143&theme=aurora&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
 
 
