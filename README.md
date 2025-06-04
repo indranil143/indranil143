@@ -135,10 +135,9 @@
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=indranil143&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-</p>
-
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=indranil143&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
@@ -154,7 +153,8 @@
 
 
 <!-- 🔥 Streak Stats with Wings -->
-<p align="center">
+<!-- 
+  <p align="center">
   <img height="200" width="70" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png" alt="Left Wing">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=indranil143&theme=dracula&hide_border=false"/>
@@ -164,8 +164,8 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
-
+</p> 
+-->
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
