@@ -139,6 +139,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=indranil143&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
 </p>
 
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=indranil143&theme=dark&hide_border=true)
+
 <!-- 🔥 Streak Stats with Wings -->
 <p align="center">
   <img height="200" width="70" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png" alt="Left Wing">
