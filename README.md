@@ -139,7 +139,19 @@
     <img src="https://github-readme-stats.vercel.app/api?username=indranil143&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=indranil143&theme=dark&hide_border=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=indranil143&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=indranil143&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+</p>
+
 
 <!-- 🔥 Streak Stats with Wings -->
 <p align="center">
