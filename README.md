@@ -17,7 +17,7 @@
 - 😄 Passionate about designing intelligent models, uncovering hidden patterns in data, and optimizing decision-making.  
 - 🌱 Exploring the fusion of AI and data engineering, working with scalable systems to process real-time and batch data.  
 - ⚡ Developing expertise in deep learning, advanced analytics, and cutting-edge tools like TensorFlow and Apache Spark.
-- 📫 Reach me @ **banerjeeindranil143@gmail.com** ))
+- 📫 Reach me at **banerjeeindranil143@gmail.com** 
 
 
 <h3 align="left">Connect with me:</h3>
