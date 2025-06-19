@@ -144,7 +144,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=indranil143&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=indranil143&theme=radical&hide_border=false&cache_seconds=86400" alt="GitHub Streak" />
 </p>
 
 <p align="center">
