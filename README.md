@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Indranil Bandyopadhyay </h1>
-<h3 align="center">Applied AI Engineer & Data Analyst from India &#127470;&#127475;, Specializing in Large Language Models (LLMs), NLP, AI Agents, and Machine Learning Systems.🚀</h3>
+<h3 align="center">Applied AI Engineer & Data Analyst from India &#127470;&#127475;, specializing in LLMs, NLP, AI Agents, and Machine Learning Systems.🚀</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=indranil143&label=Profile%20views&color=0e75b6&style=flat" alt="indranil143" />
@@ -15,7 +15,7 @@
 
 - 🔬 Applied AI Engineer working on **LLM Fine-Tuning, RLHF, AI Agents & NLP Systems**
 - 📊 Data Analyst specializing in **Statistical Modeling & High-Dimensional Data Analysis**
-- 🧠 **UGC-NET Qualified** | Researcher in Deep Learning & Sentiment Analysis
+- 🧠 **UGC-NET Qualified (Computer Science and Application)** | Researcher in Deep Learning & Sentiment Analysis
 - 🤖 Experienced in **Human-in-the-Loop (HITL) AI Evaluation & Model Alignment**
 - 📚 Published research in **Transformer-based Sentiment Analysis**
 - 🎨 Artist blending creativity with intelligent systems
@@ -142,15 +142,15 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indranil143&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=indranil143&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=indranil143&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=indranil143&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indranil143&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" />
 </p>
 
 
@@ -168,23 +168,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p> 
 -->
-
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=indranil143&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=7200"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=indranil143&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=7200"/>
-</p>
-
-
-
-
 
 
 <h2 align="center">🏆 GitHub Trophies</h2>
