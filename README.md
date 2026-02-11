@@ -13,25 +13,14 @@
     <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="1000"/>
 </p>
 
-
-<p align="center">
-  <a href="https://linkedin.com/in/ibandyopadhyay"><img src="https://img.shields.io/badge/LinkedIn-Indranil_Bandyopadhyay-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.hackerrank.com/profile/banerjeeindranil"><img src="https://img.shields.io/badge/HackerRank-Solved-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-  <a href="https://leetcode.com/banerjeeindranil143/"><img src="https://img.shields.io/badge/LeetCode-Coding-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="mailto:banerjeeindranil143@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-## 👨‍💻 About Me
-
 - 🔬 Applied AI Engineer working on **LLM Fine-Tuning, RLHF, AI Agents & NLP Systems**
 - 📊 Data Analyst specializing in **Statistical Modeling & High-Dimensional Data Analysis**
 - 🤖 Experienced in **Human-in-the-Loop (HITL) AI Evaluation, Model Alignment, OCI Data Science, and ADS SDK**
 - 🧠 **UGC-NET Qualified (Computer Science and Application) - 99.167 Percentile**
-- 🎓 Certified in **Google Cloud, Oracle Cloud Infrastructure and NVIDIA**
+- 👨‍💻 Certified in **Google Cloud, Oracle Cloud Infrastructure and NVIDIA**
 - 📚 Published research in **Transformer-based Sentiment Analysis**
 - 🎨 Artist & Creative Technologist blending **analytical thinking with visual storytelling**
 - 📫 Email: **banerjeeindranil143@gmail.com** 
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -64,53 +53,6 @@
 
 
 <h2 align="center">🚀 Languages & Tools:</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><b>🧠 AI & NLP</b></td>
-    <td align="center" width="25%"><b>📊 Data Science</b></td>
-    <td align="center" width="25%"><b>💻 Languages</b></td>
-    <td align="center" width="25%"><b>☁️ Cloud & Tools</b></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat&logo=spacy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Matplotlib-3F4F75?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
-
-
-
 
 <p align="center">
     <!-- Row 1: Programming Languages & Development Tools -->
@@ -195,23 +137,6 @@
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
-<div align="center">
-  <a href="https://github.com/indranil143">
-  <img src="https://github-readme-stats.vercel.app/api?username=indranil143&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="Indranil's Github Stats" height="160" />
-  </a>
-  <a href="https://github.com/indranil143">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indranil143&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Indranil's Streak" height="160" />
-  </a>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-</div>
-
-
-
-
 <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=indranil143&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
 </p> -->
@@ -243,29 +168,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p> 
 -->
-
-## 🧩 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indranil143/indranil143/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indranil143/indranil143/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/indranil143/indranil143/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
-<div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=indranil143&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-  </p>
-  <p><i>"The goal is not just to build models, but to build intelligence that aligns with human intent."</i></p>
-</div>
-
-
-
-
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
