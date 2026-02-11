@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Indranil Bandyopadhyay </h1>
-<h3 align="center">Applied AI Engineer & Data Analyst from India &#127470;&#127475;, specializing in LLMs, NLP, AI Agents, and Machine Learning Systems.🚀</h3>
+<h3 align="center">Applied AI Engineer from India &#127470;&#127475;, specializing in Data analysis, LLMs, NLP, and Agentic AI Systems.🚀</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=indranil143&label=Profile%20views&color=0e75b6&style=flat" alt="indranil143" />
@@ -18,7 +18,7 @@
 - 🧠 **UGC-NET Qualified (Computer Science and Application)** | Researcher in Deep Learning & Sentiment Analysis
 - 🤖 Experienced in **Human-in-the-Loop (HITL) AI Evaluation & Model Alignment**
 - 📚 Published research in **Transformer-based Sentiment Analysis**
-- 🎨 Artist blending creativity with intelligent systems
+- 🎨 Artist & Creative Technologist blending **analytical thinking with visual storytelling**
 - 📫 Email: **banerjeeindranil143@gmail.com** 
 
 
