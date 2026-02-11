@@ -13,6 +13,21 @@
     <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="1000"/>
 </p>
 
+
+<p align="center">
+  <a href="https://linkedin.com/in/ibandyopadhyay"><img src="https://img.shields.io/badge/LinkedIn-Indranil_Bandyopadhyay-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.hackerrank.com/profile/banerjeeindranil"><img src="https://img.shields.io/badge/HackerRank-Solved-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://leetcode.com/banerjeeindranil143/"><img src="https://img.shields.io/badge/LeetCode-Coding-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="mailto:banerjeeindranil143@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+## 👨‍💻 About Me
+
+* 🤖 **Current Focus:** Developing autonomous **AI Agents** at **Mindrift** and fine-tuning LLMs for mathematical reasoning at **Outlier AI**.
+* 🔭 **Specialized Stack:** Expert in **RLHF**, **HITL (Human-in-the-Loop)**, **OCI Data Science**, and **ADS SDK**.
+* 🧠 **Research:** Published author in **Deep Learning & Sentiment Analysis** (Transformer-based architectures).
+* 🎓 **Credentials:** UGC-NET Qualified | Certified in Google Cloud & Oracle Cloud Infrastructure.
+  
 - 🔬 Applied AI Engineer working on **LLM Fine-Tuning, RLHF, AI Agents & NLP Systems**
 - 📊 Data Analyst specializing in **Statistical Modeling & High-Dimensional Data Analysis**
 - 🧠 **UGC-NET Qualified (Computer Science and Application)** | Researcher in Deep Learning & Sentiment Analysis
@@ -53,6 +68,42 @@
 
 
 <h2 align="center">🚀 Languages & Tools:</h2>
+
+## 🛠️ Technical Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center" width="90"><b>Languages</b></td>
+    <td align="center" width="90"><b>AI & ML</b></td>
+    <td align="center" width="90"><b>Data & Cloud</b></td>
+    <td align="center" width="90"><b>Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python,cpp,c,java" /></a>
+    </td>
+    <td align="center">
+      <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" /></a>
+    </td>
+    <td align="center">
+      <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp,aws,mysql,postgres" /></a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git,docker,linux,vscode" /></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-Fine--Tuning-blue?style=flat-square&logo=openai" />
+  <img src="https://img.shields.io/badge/NLP-HuggingFace-yellow?style=flat-square&logo=huggingface" />
+  <img src="https://img.shields.io/badge/Analysis-Pandas%20%26%20NumPy-150458?style=flat-square&logo=pandas" />
+  <img src="https://img.shields.io/badge/Cloud-Oracle%20OCI-F80000?style=flat-square&logo=oracle" />
+</p>
+
+
+
+
 
 <p align="center">
     <!-- Row 1: Programming Languages & Development Tools -->
@@ -137,6 +188,26 @@
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
+## 📊 Development Metrics
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=indranil143&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Indranil's Github Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=indranil143&theme=tokyonight&hide_border=true" alt="Indranil's Streak" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+
+
+
 <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=indranil143&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
 </p> -->
@@ -168,6 +239,28 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil143&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p> 
 -->
+
+## 🧩 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indranil143/indranil143/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indranil143/indranil143/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/indranil143/indranil143/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=indranil143&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+  </p>
+  <p><i>"The goal is not just to build models, but to build intelligence that aligns with human intent."</i></p>
+</div>
+
+
+
 
 
 <h2 align="center">🏆 GitHub Trophies</h2>
