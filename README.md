@@ -16,7 +16,7 @@
 - 🔬 Applied AI Engineer working on **LLM Fine-Tuning, RLHF, AI Agents & NLP Systems**
 - 📊 Data Analyst specializing in **Statistical Modeling & High-Dimensional Data Analysis**
 - 🤖 Experienced in **Human-in-the-Loop (HITL) AI Evaluation, Model Alignment, OCI Data Science, and ADS SDK**
-- 🧠 **UGC-NET Qualified (Computer Science and Application) - 99.167 Percentile**
+- 🧠 **UGC-NET Qualified (Computer Science and Application)**
 - 👨‍💻 Certified in **Google Cloud, Oracle Cloud Infrastructure and NVIDIA**
 - 📚 Published research in **Transformer-based Sentiment Analysis**
 - 🎨 Artist & Creative Technologist blending **analytical thinking with visual storytelling**
